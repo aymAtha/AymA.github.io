@@ -32,24 +32,24 @@ author:
   location:
   email:
   social_links:
-    - name: facebook
-      url:
+    - name: telegram
+      url: @aymAtha https://web.telegram.org/#/im
     - name: github
       url: https://github.com/aymAtha/AymA.github.io
     - name: instagram
       url:
     - name: linkedin
-      url:
+      url: https://www.linkedin.com/in/aymatha/
     - name: stackoverflow
       url:
     - name: twitter
-      url: 
+      url: https://twitter.com/aymAtha
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texutre</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: <h1>Algo simple para veR</h1>
+  section2: <h2>Una joya basada en el estilo de Jekyll</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="Quieres verlo en GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
